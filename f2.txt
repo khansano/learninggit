@@ -1,0 +1,9 @@
+This is Feature 2 
+Completing the file 
+
+<<<<<<< HEAD
+This is master conflict testing
+=======
+
+This the test feature for conflict testing.
+>>>>>>> staging

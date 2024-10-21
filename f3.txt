@@ -1,0 +1,9 @@
+Today is October 21st this is ne line
+This is Feature 3 changing in staging ot test
+this is standalone testing for merge scenario
+
+This is Feature 3 changing in staging to  test
+testing pull request later
+
+
+This is edited nows

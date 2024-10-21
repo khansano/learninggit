@@ -1,0 +1,9 @@
+This is feature 1.
+testing another line on merge for staging 
+
+
+This is testing master conflict merging 
+
+This is testing staging  conflict merging 
+
+This is merged and updated
